@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6351f775-1ff2-470b-9752-e34aa8fbb346" name="Changes" comment="Practice Problems">
-      <change afterPath="$PROJECT_DIR$/src/LongestCommonSubseaquence/Lcs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestCommonSubseaquence/LongestCommonSubString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683567163371</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Practice Problems">
+      <created>1683573080297</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683573080297</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
